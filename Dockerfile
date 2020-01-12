@@ -18,7 +18,7 @@
 FROM centos:latest
 
 # Maintener
-MAINTAINER Daniel Lopez Monagas <zokeber@gmail.com>
+MAINTAINER Arif Hidayat <arif.hidayat@gitenigmacamp.com>
 
 # Update CentOS 7
 RUN yum update -y && yum upgrade -y
